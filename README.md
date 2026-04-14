@@ -208,9 +208,3 @@ El proyecto implementa completamente un analizador léxico siguiendo los fundame
    - En terminal: `python main.py codigo.txt`
    - O con doble clic: luego ingresar el nombre del archivo cuando se solicite.
 4. Ver la salida en pantalla con los tokens de operadores y palabras reservadas.
-
-¡El programa está listo para usar!
-
----
-
-Ahora sí está completo. Puedes copiar este contenido en un archivo con extensión `.md` y usarlo como documentación.
